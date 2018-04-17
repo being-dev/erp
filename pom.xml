@@ -16,7 +16,7 @@
 	<modules>
 		<module>erp-web-ui</module>
 		<module>erp-domain</module>
-		<!-- <module>erp-service</module> -->
+		<module>erp-service</module>
 	</modules>
 
 	<dependencies>
