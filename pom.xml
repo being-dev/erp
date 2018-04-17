@@ -13,11 +13,11 @@
 		<spring.version>5.0.1.RELEASE</spring.version>
 	</properties>
 
-	<!-- <modules>
-		<module>erp-web-ui</module>
+	<modules>
+		<!-- <module>erp-web-ui</module> -->
 		<module>erp-domain</module>
-		<module>erp-service</module>
-	</modules> -->
+		<!-- <module>erp-service</module> -->
+	</modules>
 
 	<dependencies>
 		<dependency>
