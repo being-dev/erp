@@ -1,1 +1,1 @@
-<h1>Welcome To Spring Web Application</h1>
+<jsp:forward page="login.html"/>
